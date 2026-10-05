@@ -1,6 +1,8 @@
 
 # E-Commerce Analysis: Statistical + Big Data Frameworks
 
+> **Maintained by [Jennita S](https://github.com/Jennita-Santhakumar)** · [LinkedIn](https://linkedin.com/in/jennitas) · jennitasanthakumar0@gmail.com
+
 ## Honest history of this repo
 
 This repo used to contain a single Jupyter notebook (`BDF_review.ipynb`) that
@@ -211,3 +213,7 @@ science, forensic analytics, and scalable data processing.
 * **Kabilesh Rajaselvan**
   Vellore Institute of Technology, Chennai Campus
   [LinkedIn](https://www.linkedin.com/in/kabilesh-rajaselvan-3344a7287/)
+
+## Credits
+
+Developed by Kabilesh Rajaselvan with contributions from Jennita S.
